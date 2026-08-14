@@ -1,0 +1,9 @@
+{
+  "name": "Neelam Retro Radio Player",
+  "short_name": "Neelam Radio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#c0c0c0",
+  "theme_color": "#000080",
+  "orientation": "portrait"
+}
